@@ -9,7 +9,7 @@ Join zastix's discord [here!](https://discord.gg/xxBtqPHSjW)
 # Betastar socials:
 [The site of course](https://betastar.org)<br>
 [Betastar's discord](https://discord.gg/XrVMbR5tJd)<br>
-[Xotic's github](X0TlC)
+[Xotic's github](tps://github.com/Xotlc)
 # How To Use
 1. Copy the script to your clipboard.<br>
 2. Open the console in Betastar (CTRL + SHIFT + J or COMMAND + SHIFT + J).<br>
