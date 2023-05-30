@@ -6,7 +6,6 @@
 <br>
 
 ### [Discord Server](https://discord.gg/BJCms66bcu)
-![](https://komarev.com/ghpvc/?username=BlacketWare&color=lightgrey)
   
 # Blacket Socials
 [site](https://blacket.org/)<br>
